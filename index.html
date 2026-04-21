@@ -8,6 +8,14 @@
     </style>
   </head>
   <body>
-    <iframe src="Musa_Abdulrafiu_resume.pdf"></iframe>
+    <iframe id="resume-frame"></iframe>
+    
+    <script>
+      // 1. Generates a unique number based on the current exact millisecond
+      const cacheBuster = new Date().getTime();
+      
+      // 2. Tells the iframe to load your specifically named PDF with the cache buster
+      document.getElementById('resume-frame').src = "Musa_Abdulrafiu_resume.pdf?v=" + cacheBuster;
+    </script>
   </body>
 </html>
