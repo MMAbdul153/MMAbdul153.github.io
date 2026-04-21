@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  21 APR 2026 05:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  21 APR 2026 06:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,15 +281,15 @@ LaTeX Font Info:    ... okay on input line 37.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.90755pt, 556.4799pt, 28.90755pt)
-* v-part:(T,H,B)=(28.90755pt, 737.15489pt, 28.90755pt)
+* h-part:(L,W,R)=(21.68121pt, 570.93257pt, 21.68121pt)
+* v-part:(T,H,B)=(21.68121pt, 751.60756pt, 21.68121pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=556.4799pt
-* \textheight=737.15489pt
-* \oddsidemargin=-43.36244pt
-* \evensidemargin=-43.36244pt
-* \topmargin=-80.36244pt
+* \textwidth=570.93257pt
+* \textheight=751.60756pt
+* \oddsidemargin=-50.58878pt
+* \evensidemargin=-50.58878pt
+* \topmargin=-87.58878pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -331,11 +331,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 41.
- [1
+
+Underfull \hbox (badness 1902) in paragraph at lines 86--86
+[]|\T1/cmr/bx/n/10 ArtisanConnect - E-commerce Mar-ket-place for Hand-made
+ []
+
+[1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
 /texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdi
-r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2]
 (./Musa_Abdulrafiu_resume.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -346,23 +351,24 @@ Package rerunfilecheck Info: File `Musa_Abdulrafiu_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9946 strings out of 467349
- 151449 string characters out of 5417750
- 608166 words of memory out of 5000000
- 38954 multiletter control sequences out of 15000+600000
- 633366 words of font info for 48 fonts, out of 8000000 for 9000
+ 9950 strings out of 467349
+ 151486 string characters out of 5417750
+ 609170 words of memory out of 5000000
+ 38956 multiletter control sequences out of 15000+600000
+ 633679 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,277b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,277b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/t
 exdir/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/texlive/texdir/
 texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></opt/texlive/texdir/texmf-
-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Musa_Abdulrafiu_resume.pdf (1 page, 118904 bytes).
+dist/fonts/type1/public/cm-super/sfti1000.pfb></opt/texlive/texdir/texmf-dist/f
+onts/type1/public/cm-super/sftt1000.pfb>
+Output written on Musa_Abdulrafiu_resume.pdf (2 pages, 141606 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 60 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
