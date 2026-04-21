@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  21 APR 2026 05:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  21 APR 2026 05:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Resume.tex
-(./Resume.tex
+**Musa_Abdulrafiu_resume.tex
+(./Musa_Abdulrafiu_resume.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
@@ -251,8 +251,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
 )
-(./Resume.aux)
-\openout1 = `Resume.aux'.
+(./Musa_Abdulrafiu_resume.aux)
+\openout1 = `Musa_Abdulrafiu_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -308,9 +308,9 @@ LaTeX Font Info:    ... okay on input line 37.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 37.
-(./Resume.out) (./Resume.out)
+(./Musa_Abdulrafiu_resume.out) (./Musa_Abdulrafiu_resume.out)
 \@outlinefile=\write3
-\openout3 = `Resume.out'.
+\openout3 = `Musa_Abdulrafiu_resume.out'.
 
 
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -335,29 +335,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
 /texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdi
-r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./Resume.aux)
+r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+(./Musa_Abdulrafiu_resume.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-Package rerunfilecheck Info: File `Resume.out' has not changed.
+Package rerunfilecheck Info: File `Musa_Abdulrafiu_resume.out' has not changed.
+
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  9946 strings out of 467349
- 151145 string characters out of 5417750
- 608086 words of memory out of 5000000
+ 151449 string characters out of 5417750
+ 608166 words of memory out of 5000000
  38954 multiletter control sequences out of 15000+600000
  633366 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,261b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,277b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/t
 exdir/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/texlive/texdir/
 texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></opt/texlive/texdir/texmf-
 dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Resume.pdf (1 page, 118904 bytes).
+Output written on Musa_Abdulrafiu_resume.pdf (1 page, 118904 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
