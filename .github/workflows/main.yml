@@ -26,4 +26,4 @@ jobs:
           publish_dir: ./
           publish_branch: gh-pages
           # This tells GitHub to only keep the PDF in the hosted branch
-          glob_pattern: "*.pdf"
+          #glob_pattern: "*.pdf"
