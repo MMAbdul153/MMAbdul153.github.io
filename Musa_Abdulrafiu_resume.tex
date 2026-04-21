@@ -1,5 +1,5 @@
 \documentclass[10pt,letterpaper]{article}
-\usepackage[margin=0.4in]{geometry}
+\usepackage[margin=0.3in]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
@@ -57,7 +57,7 @@
 \textbf{Backend \& Databases:} & Express.js, PostgreSQL, MongoDB, Firebase (Auth, Firestore, Cloud Functions), Redis \\
 \textbf{Cloud \& Infrastructure:} & AWS (EC2, S3, Lambda, API Gateway, CloudWatch), Docker, CI/CD, Linux/Unix \\
 \textbf{Software Engineering:} & OOP/OOD, Design Patterns, Distributed Systems, SDLC, Microservices \\
-\textbf{Tools \& Technologies:} & Git, REST APIs, Jest, Jasmine \\
+\textbf{Tools \& Technologies:} & Git, REST APIs, Jest, Jasmine, Karma \\
 \end{tabularx}
 
 \section*{Experience}
@@ -93,12 +93,13 @@
 \resumeItemListEnd
 
 \resumeProjectHeading
-{FiskConnect - Full-Stack Mobile Application} {React Native, Node.js, Express.js, MongoDB, Firebase, Git}
+{FiskConnect - Full-Stack Mobile Application}{React Native, Firebase, Firestore, Expo, React Navigation, Git}
 \resumeItemListStart
-    \item Built a mobile app designed to improve student connection and access to campus-related resources through a responsive cross-platform interface.
-    \item Developed frontend features in React Native using reusable components, state management, and navigation to create a smooth user experience.
-    \item Integrated Firebase Authentication and Firestore to support secure login, real-time data storage, and protected access to student information.
-    \item Designed backend APIs and application logic to support scalable data flow, user activity, and future feature expansion.
+    \item Built a campus-only mobile application for Fisk University students, restricting access to verified \texttt{@fisk.edu} accounts to create a trusted peer-to-peer marketplace and task coordination platform.
+    \item Implemented 5 core product features: verified authentication, marketplace listings, task posting/acceptance, real-time in-app messaging, and profile management.
+    \item Engineered a 5-tab React Native navigation flow spanning Home, Marketplace, Tasks, Messages, and Profile, with detail views for listings, tasks, and contextual chat.
+    \item Integrated Firebase Authentication, Cloud Firestore, and real-time \texttt{onSnapshot} listeners to deliver live updates for listings, tasks, and messages in 1--2 seconds without manual refresh.
+    \item Designed secure Firestore data models and access rules for users, listings, tasks, conversations, and nested message threads; validated functionality across both Android and iOS devices.
 \resumeItemListEnd
 
 \resumeProjectHeading
@@ -110,7 +111,7 @@
     \item Used Firebase Auth, Cloud Functions, Firestore, and security rules to authenticate users and securely manage student data.
 \resumeItemListEnd
 
-\section*{Extracurricullars}
+\section*{Extracurriculars}
 \resumeItemListStart
     \item Fisk Carl Van Vechten Gallery Ambassador. 
 \resumeItemListEnd
